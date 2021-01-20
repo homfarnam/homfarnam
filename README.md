@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white0e76a8)](https://www.linkedin.com/in/farnam-homayounfar/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homfarnam)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=homfarnam)](https://github.com/homfarnam)
